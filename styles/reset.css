@@ -157,10 +157,6 @@ svg {
 	max-width: 100%;
 }
 
-html {
-	color-scheme: light dark;
-}
-
 body {
 	line-height: 1.5;
 	-webkit-font-smoothing: antialiased;
